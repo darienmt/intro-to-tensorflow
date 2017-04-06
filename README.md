@@ -31,3 +31,7 @@ jupyter notebook
 ```
 
 This will opens a browser with Jupyter on the current directory.
+
+# Tutorial links
+
+- https://github.com/aymericdamien/TensorFlow-Examples
