@@ -1,5 +1,5 @@
 # Intro to Tensorflow
-Here you can read about my first interacion with [TensorFlow](https://www.tensorflow.org/). More or less, it is my playground to learn more about the library.
+Here you can read about my first interaction with [TensorFlow](https://www.tensorflow.org/). More or less, it is my playground to learn more about the library.
 
 # Prerequisites
 
@@ -31,6 +31,26 @@ jupyter notebook
 ```
 
 This will opens a browser with Jupyter on the current directory.
+
+# Installation for CarND TensorFlow Lab notebook
+(https://github.com/udacity/CarND-TensorFlow-Lab)
+
+To create an environment for this project use the following command:
+
+```
+conda env create -f environment.yml
+```
+
+After the environment is created, it needs to be activated with the command:
+
+```
+source activate CarND-TensorFlow-Lab
+```
+and open the project's notebook [CarND_TensorFlow_Lab.ipynb](CarND_TensorFlow_Lab.ipynb) inside jupyter notebook:
+
+```
+jupyter notebook CarND_TensorFlow_Lab.ipynb
+```
 
 # Tutorial links
 
