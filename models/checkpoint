@@ -1,2 +1,3 @@
-model_checkpoint_path: "model_names.ckpt"
-all_model_checkpoint_paths: "model_names.ckpt"
+model_checkpoint_path: "lenet"
+all_model_checkpoint_paths: "../lenet"
+all_model_checkpoint_paths: "lenet"

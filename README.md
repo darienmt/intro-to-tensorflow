@@ -52,6 +52,28 @@ and open the project's notebook [CarND_TensorFlow_Lab.ipynb](CarND_TensorFlow_La
 jupyter notebook CarND_TensorFlow_Lab.ipynb
 ```
 
+# Installation for CarND LeNet Lab
+(https://github.com/udacity/CarND-LeNet-Lab)
+
+To create an environment for this project use the following command:
+
+```
+conda env create -f cardnd-term1-environment.yml
+```
+
+After the environment is created, it needs to be activated with the command:
+
+```
+source activate carnd-term1
+```
+
+to open the project's notebook [LeNet-Lab.ipynb](LeNet-Lab.ipynb) inside jupyter notebook:
+
+```
+jupyter notebook LeNet-Lab.ipynb
+```
+
+
 # Tutorial links
 
 - https://github.com/aymericdamien/TensorFlow-Examples
